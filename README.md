@@ -2,6 +2,7 @@
 
 ## Languages
 <img src= "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt ="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src= "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/haskell/haskell-original.svg" alt ="rails" width="40" height="40" style="max-width:100%;"></img>
 
 
 <!--
