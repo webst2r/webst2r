@@ -14,6 +14,10 @@ My name is Rodrigo and I'm a 3rd year Software Engineering student from Portugal
 #### Reach Me
 <div>
   <a href="https://www.linkedin.com/in/rodrigopiresrodrigues/" target = "_blank"><img src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/webst2r/" target = "_blank"><img src = https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    
+    
+   
 
 <!--
 **webst2r/webst2r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
