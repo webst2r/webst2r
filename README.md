@@ -12,7 +12,7 @@ My name is Rodrigo and I'm a 3rd year Software Engineering student from Portugal
 
 
 #### Reach Me
-[![name](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original-wordmark.svg)](https://www.linkedin.com/in/rodrigopiresrodrigues/)
+[![name](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original-wordmark.svg) alt ="rails" width="40" height="40" style="max-width:100%;](https://www.linkedin.com/in/rodrigopiresrodrigues/)
 <!--
 **webst2r/webst2r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
