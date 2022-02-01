@@ -2,7 +2,7 @@
 
 My name is Rodrigo and I'm a 3rd year Software Engineering student from Portugal.
 
-#### 🌱 Interests: Blockchain, Web Development & Programming in general.
+#### 🌱 Interests: Blockchain, Formula1 & fitness
 
 
 #### :computer: Programming languages I use the most
