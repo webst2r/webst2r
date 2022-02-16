@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rodrigo and I'm a 3rd year Software Engineering student from Portugal.
+My name is Rodrigo and I'm a 3rd year Software Engineering student @University Of Minho.
 
 #### :racing_car: Interests: Blockchain & Web3, Web Development
 
