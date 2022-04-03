@@ -8,9 +8,13 @@ My name is Rodrigo and I'm a 3rd year Software Engineering student @University O
 #### :computer:
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt ="haskell" width="40" height="40" style="max-width:100%;"></img>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt ="c-language" width="40" height="40" style="max-width:100%;"></img>
+<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt ="c-plus-plus" width="40" height="40" style="max-width:100%;"></img>
+<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt ="python" width="40" height="40" style="max-width:100%;"></img>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original-wordmark.svg" alt ="java" width="40" height="40" style="max-width:100%;"></img>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt ="html" width="40" height="40" style="max-width:100%;"></img>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt ="css" width="40" height="40" style="max-width:100%;"></img>
+
+
 
 
 
