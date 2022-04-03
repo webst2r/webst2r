@@ -2,7 +2,7 @@
 
 My name is Rodrigo and I'm a 3rd year Software Engineering student @University Of Minho.
 
-#### :racing_car: Interests: Blockchain & Web3, Web Development & Programming in General.
+#### :racing_car: Interests: F1, Blockchain & Web3, Web Development
 
 
 #### :computer:
