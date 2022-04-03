@@ -1,4 +1,4 @@
-### Rodrigo Rodrigues——@webst2r
+### Rodrigo Rodrigues—@webst2r
 
 👋Hey! I'm a 3rd year Software Engineering student @University Of Minho.
 
