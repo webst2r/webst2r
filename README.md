@@ -14,7 +14,7 @@
 
 
   
-📫 Visit my <a href=https://webst2r.github.io/portfolio/ target="_blank">Website</a>
+Visit my personal Website: https://webst2r.github.io/portfolio/
     
     
    
