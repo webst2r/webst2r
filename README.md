@@ -1,8 +1,7 @@
 ### Rodrigo Rodrigues—@webst2r
 
-👋Hey! I'm a 3rd year Software Engineering student @University Of Minho.
+👋Hey! I'm a 3rd year Software Engineering student @University Of Minho. Interest in Blockchain & Web3, Sports in general.
 
-#### :racing_car: Interests: F1, Blockchain & Web3, Web Development, Sports in general
 
 
 #### :computer: Technologies and tools
