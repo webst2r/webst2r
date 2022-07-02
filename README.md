@@ -14,12 +14,6 @@
 
 
 
-
-#### 💬 Reach Me
-<div>
-  <a href="https://www.linkedin.com/in/rodrigopiresrodrigues/" target = "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  
   
 📫 Visit my Website: https://webst2r.github.io/portfolio/
  
