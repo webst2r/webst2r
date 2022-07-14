@@ -14,7 +14,8 @@
 
 
   
-Visit my personal Website: https://webst2r.github.io/portfolio/
+😄 Visit my personal Website: https://webst2r.github.io/portfolio/
+Follow my Blockchain development Journey: https://twitter.com/webst2r
     
     
    
