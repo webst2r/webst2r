@@ -10,6 +10,8 @@
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt ="c-plus-plus" width="40" height="40" style="max-width:100%;"></img>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt ="python" width="40" height="40" style="max-width:100%;"></img>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original-wordmark.svg" alt ="java" width="40" height="40" style="max-width:100%;"></img>
+<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" alt ="solidity" width="40" height="40" style="max-width:100%;"></img>
+<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt ="react" width="40" height="40" style="max-width:100%;"></img>
 
 
 
