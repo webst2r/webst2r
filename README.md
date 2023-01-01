@@ -1,6 +1,6 @@
 ### Rodrigo Rodrigues—@webst2r
 
-👋Hey! I'm a Software Engineering student at University Of Minho where i'm getting a Master's degree. Interest in Blockchain/Web3 & sports in general.
+👋Hey! I'm a Software Engineering student at University Of Minho where i'm getting a Master's degree. Interested in Blockchain/Web3 & sports in general.
 
 
 
