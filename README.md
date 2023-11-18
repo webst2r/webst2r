@@ -1,7 +1,15 @@
 ### Rodrigo Rodrigues—@webst2r
 
-👋Hey! I'm a Software Engineering student at Universidade do Minho where i'm getting a Master's degree. Interested in Blockchain/Web3 & sports in general.
+👋Hey! I'm a Software Engineering student at Universidade do Minho where i'm getting a Master's degree.
 
+
+  
+😄 Visit my personal Website: https://webst2r.github.io/portfolio/  
+    
+    
+   
+
+<!--
 
 
 #### 💻: Technologies & Tools
@@ -14,14 +22,6 @@
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt ="react" width="40" height="40" style="max-width:100%;"></img>
 
 
-
-  
-😄 Visit my personal Website: https://webst2r.github.io/portfolio/  
-    
-    
-   
-
-<!--
 **webst2r/webst2r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
